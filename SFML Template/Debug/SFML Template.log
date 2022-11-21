@@ -1,0 +1,39 @@
+﻿  GameOverState.cpp
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\DEFINITIONS.hpp(45,1): warning C4005: 'SPLASH_STATE_SHOW_TIME': redefinición de macro
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\DEFINITIONS.hpp(4,1): message : vea la definición anterior de 'SPLASH_STATE_SHOW_TIME'
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\DEFINITIONS.hpp(69,1): warning C4005: 'PIPE_SPAWN_FREQUENCY': redefinición de macro
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\DEFINITIONS.hpp(18,1): message : vea la definición anterior de 'PIPE_SPAWN_FREQUENCY'
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\DEFINITIONS.hpp(71,1): warning C4005: 'BIRD_ANIMATION_DURATION': redefinición de macro
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\DEFINITIONS.hpp(27,1): message : vea la definición anterior de 'BIRD_ANIMATION_DURATION'
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\GameOverState.cpp(55,38): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\GameOverState.cpp(57,84): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\GameOverState.cpp(61,69): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\GameOverState.cpp(61,35): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\GameOverState.cpp(60,80): warning C4244: 'argumento': conversión de 'T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\GameOverState.cpp(60,39): warning C4244: 'argumento': conversión de 'T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\GameOverState.cpp(74,95): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\GameOverState.cpp(74,61): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\GameOverState.cpp(129,27): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\GameOverState.cpp(129,19): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\GameOverState.cpp(130,32): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\GameOverState.cpp(130,21): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  GameState.cpp
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\DEFINITIONS.hpp(45,1): warning C4005: 'SPLASH_STATE_SHOW_TIME': redefinición de macro
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\DEFINITIONS.hpp(4,1): message : vea la definición anterior de 'SPLASH_STATE_SHOW_TIME'
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\DEFINITIONS.hpp(69,1): warning C4005: 'PIPE_SPAWN_FREQUENCY': redefinición de macro
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\DEFINITIONS.hpp(18,1): message : vea la definición anterior de 'PIPE_SPAWN_FREQUENCY'
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\DEFINITIONS.hpp(71,1): warning C4005: 'BIRD_ANIMATION_DURATION': redefinición de macro
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\DEFINITIONS.hpp(27,1): message : vea la definición anterior de 'BIRD_ANIMATION_DURATION'
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\GameState.cpp(110,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\GameState.cpp(122,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuario\Desktop\SFML Group\SFML Template\GameState.cpp(137,23): warning C4018: '<': no coinciden signed/unsigned
+  Generando código...
+  SFML Template.vcxproj -> C:\Users\Usuario\Desktop\SFML Group\SFML Template\Debug\SFML Template.exe
